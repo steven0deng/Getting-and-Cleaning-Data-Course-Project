@@ -5,7 +5,7 @@ This project does the following:
 * Selects a set of features from the whole data set
 * Does some simple transformation
 * Renames feature names
-* Output the average feature values of grouped data set
+* Outputs the average feature values of grouped data set
 
 The source data for this project is from:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
