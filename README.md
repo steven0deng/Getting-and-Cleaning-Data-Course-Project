@@ -14,6 +14,9 @@ The the upzipped folder shall be renamed from "UCI HAR Dataset" to "data".
 
 This project contains the following documents:
 
+1. README.md
+> This file.
+
 1. run_analysis.R
 > This scripts for data cleaning.
 
