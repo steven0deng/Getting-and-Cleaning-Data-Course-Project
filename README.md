@@ -13,6 +13,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 The the upzipped folder shall be renamed from "UCI HAR Dataset" to "data".
 
 This project contains the following documents:
+
 1. run_analysis.R
 > This scripts for data cleaning.
 

@@ -22,6 +22,7 @@ Below is diagram for the features used in this project.
 The raw data is from the accelerometer and gyroscope 3-axial raw signals. The acceleration signal was separated into body and gravity acceleration signals. The body linear acceleration and angular velocity (```Signals->Accelerometer->Body->Signal``` and ```Signals->Gyroscope->Signal```) were derived in time to obtain Jerk signals (```Signals->Accelerometer->Body->Jerk Signal``` and ```Signals->Gyroscope->Jerk Signal```). The magnitude of these three-dimensional signals were calculated using the Euclidean norm. Some of the time domain (the 't' in the leaf nodes) signals were transformed into frequency domain signals (the 'f' in the leaf nodes) by applying Fast Fourier Transform (FFT). For all these singals, the mean and standard deviation were used as features. So for the total of 33 signals (both 't' and 'f'), 66 features were used.
 
 **The 66 features used and the original feature name:**
+
 The feature name has been transformed into descriptive names. Below is the list of them and their original names.
 
 **Number**|**Descriptive Feature Name**|**Original Feature Name**
